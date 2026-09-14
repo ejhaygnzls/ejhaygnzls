@@ -17,7 +17,7 @@ I'm a BSIT student at PHINMA University of Pangasinan, passionate about coding, 
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,python" alt="Java, HTML, CSS, JavaScript, PHP, Python"/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,python" https://camo.githubusercontent.com/effec136df8079262f959dbd34a06eac54cdbdc153a944c65ecd19968f4bdcc7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667 alt=", HTML, CSS, JavaScript, PHP, Python"/>
 </p>
 
 ### ⚛️ Frameworks & Libraries
