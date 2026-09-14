@@ -17,25 +17,32 @@ I'm a BSIT student at PHINMA University of Pangasinan, passionate about coding, 
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,python" https://camo.githubusercontent.com/effec136df8079262f959dbd34a06eac54cdbdc153a944c65ecd19968f4bdcc7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667 alt=", HTML, CSS, JavaScript, PHP, Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
 </p>
 
 ### ⚛️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React"/>
 </p>
 
 ### 🗄️ Database & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="50" height="50" alt="Supabase"/>
 </p>
 
 ### 🧰 Tools & Version Control
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git, GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
 </p>
 
 ## 🚀 Project
@@ -54,5 +61,4 @@ Currently building **CampusCart**, a campus-based student buy and sell system de
 * Web Development
 * Database Systems
 * UI/UX Design
-* Other Programming languages
-
+* Other Programming Languages
