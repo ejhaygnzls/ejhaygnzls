@@ -45,15 +45,6 @@ I'm a BSIT student at PHINMA University of Pangasinan, passionate about coding, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
 </p>
 
-## 🚀 Project
-
-### 🛒 CampusCart
-
-**Student Buy and Sell System**
-
-Currently building **CampusCart**, a campus-based student buy and sell system designed for students to buy and sell second-hand books, gadgets, school supplies, and other academic-related items within the campus community.
-
-**Tech Stack:** Java • HTML • CSS • JavaScript • PHP • Supabase
 
 ## 📚 Currently Learning
 
