@@ -45,11 +45,3 @@ I'm a BSIT student at PHINMA University of Pangasinan, passionate about coding, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
 </p>
 
-
-## 📚 Currently Learning
-
-* Java & Object-Oriented Programming
-* Web Development
-* Database Systems
-* UI/UX Design
-* Other Programming Languages
