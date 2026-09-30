@@ -6,7 +6,7 @@ I'm a BSIT student at PHINMA University of Pangasinan, passionate about coding, 
 
 ## 👨‍💻 About Me
 
-* 🎓 Bachelor of Science in Information Technology student
+* 🎓 Student of Bachelor of Science in Information Technology
 * 💻 Learning software development and full-stack web development
 * 🎨 Interested in UI/UX Design and creating clean, user-friendly interfaces
 * 🚀 Building projects to improve my coding and problem-solving skills
