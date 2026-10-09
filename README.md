@@ -2,7 +2,7 @@
 
 ### BSIT Student | Aspiring Software Developer or Data Analyst
 
-I'm a BSIT student at PHINMA University of Pangasinan, passionate about coding, web development, and exploring new technologies.
+I'm a BSIT student at PHINMA University of Pangasinan, passionate about coding, web development, creating game, and exploring about technologies.
 
 ## 👨‍💻 About Me
 
