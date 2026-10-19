@@ -1,6 +1,6 @@
 # Hi, I'm Ejhay Gonzales 👋
 
-### BSIT Student | Aspiring Software Developer or Data Analyst
+### BSIT Student | Aspiring Software Developer or Data Analysts
 
 I'm a BSIT student at PHINMA University of Pangasinan, passionate about coding, web development, creating game, and exploring about technologies.
 
