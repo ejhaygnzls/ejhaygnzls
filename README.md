@@ -1,4 +1,4 @@
-# Hi, I'm Ejhay Gonzales 👋
+# Hi, I'm Ejhay!
 
 ### BSIT Student | Aspiring Data analyst and Software Developer
 
