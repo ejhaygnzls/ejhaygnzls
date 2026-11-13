@@ -1,6 +1,6 @@
 # Hi, I'm Ejhay!
 
-### BSIT Student | Aspiring Data analyst and Software Developer
+### BSIT Student | Aspiring Data analyst
 
 I'm a BSIT student at PHINMA University of Pangasinan, passionate about coding, web development, creating game, and exploring about technologies.
 
